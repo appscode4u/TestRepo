@@ -10,6 +10,7 @@ namespace TestRepo
         {
             Console.WriteLine("Dupa");
             Console.WriteLine();
+            Console.WriteLine("Patyk");
         }
     }
 }
