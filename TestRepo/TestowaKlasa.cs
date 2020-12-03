@@ -6,5 +6,6 @@ namespace TestRepo
 {
     class TestowaKlasa
     {
+        Console.WriteLine("Dupa");
     }
 }
