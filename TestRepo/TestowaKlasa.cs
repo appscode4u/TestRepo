@@ -6,6 +6,10 @@ namespace TestRepo
 {
     class TestowaKlasa
     {
-        Console.WriteLine("Dupa");
+        public void a()
+        {
+            Console.WriteLine("Dupa");
+            Console.WriteLine();
+        }
     }
 }
